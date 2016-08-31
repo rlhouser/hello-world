@@ -1,0 +1,9 @@
+Here are some useful links for figuring out github:
+
+http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+
+Here is a book on git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+
